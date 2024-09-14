@@ -1,5 +1,3 @@
-# SQL-Mini-projects
-
 # 📊 Video Game Analysis Project
 **Overview**:
 Dive into the world of video games with this project, where we analyze critic and user scores, as well as sales data for the top 400 video games released since 1977. The goal is to uncover whether there have been standout "golden years" in gaming, characterized by high ratings and impressive sales figures.
